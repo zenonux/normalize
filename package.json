@@ -1,0 +1,21 @@
+{
+  "name": "@urcloud/reset-css",
+  "version": "1.0.5",
+  "description": "Reset browsers' default style.",
+  "main": "reset.css",
+  "style": "reset.css",
+  "keywords": [
+    "reset",
+    "css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenonux/reset-css.git"
+  },
+  "homepage": "https://github.com/zenonux/urcloud/reset-css#readme",
+  "author": "zenonux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zenonux/urcloud/reset-css/issues"
+  }
+}
