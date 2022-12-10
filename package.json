@@ -1,6 +1,6 @@
 {
   "name": "@urcloud/normalize",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Reset browsers' default style.",
   "main": "normalize.css",
   "style": "normalize.css",
