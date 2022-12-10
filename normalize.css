@@ -296,4 +296,9 @@ a {
   text-decoration: none;
 }
 
+/* Set img max-width */
+img {
+  max-width: 100%;
+}
+
 /* =========== Extended Rules End =========== */
