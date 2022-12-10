@@ -5,8 +5,8 @@
   "main": "normalize.css",
   "style": "normalize.css",
   "keywords": [
-    "reset",
-    "css"
+    "reset.css",
+    "normalize.css"
   ],
   "repository": {
     "type": "git",
