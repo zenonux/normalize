@@ -1,21 +1,21 @@
 {
-  "name": "@urcloud/reset-css",
-  "version": "1.0.6",
+  "name": "@urcloud/normalize",
+  "version": "1.0.0",
   "description": "Reset browsers' default style.",
-  "main": "reset.css",
-  "style": "reset.css",
+  "main": "normalize.css",
+  "style": "normalize.css",
   "keywords": [
     "reset",
     "css"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zenonux/reset-css.git"
+    "url": "git+https://github.com/zenonux/normalize.git"
   },
-  "homepage": "https://github.com/zenonux/urcloud/reset-css#readme",
+  "homepage": "https://github.com/zenonux/urcloud/normalize#readme",
   "author": "zenonux",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zenonux/urcloud/reset-css/issues"
+    "url": "https://github.com/zenonux/urcloud/normalize/issues"
   }
 }

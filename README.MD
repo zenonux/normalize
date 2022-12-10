@@ -1,22 +1,11 @@
-# reset.css
+# normalize
 
-Reset browsers' default style.
+Reset browsers' default style, based on [modern-normalize](https://github.com/sindresorhus/modern-normalize).
 
 ## Install
 
-With NPM:
-
 ```command
-$ npm install @urcloud/reset-css
-```
-
-With jsDelivr CDN:
-
-```html
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/@urcloud/reset-css/reset.css"
-/>
+$ npm install @urcloud/normalize
 ```
 
 ## Usage
@@ -24,17 +13,6 @@ With jsDelivr CDN:
 Via CSS:
 
 ```css
-@import '/node_modules/@byronvis/reset-css/reset.css';
+@import '/node_modules/@urcloud/normalize/normalize.css';
 ```
 
-Via Less:
-
-```less
-@import '/node_modules/@byronvis/reset-css/reset.less';
-```
-
-Via webpack and [css-loader](https://github.com/webpack-contrib/css-loader):
-
-```js
-import '@urcloud/reset-css'
-```
