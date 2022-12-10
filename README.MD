@@ -10,8 +10,6 @@ $ npm install @urcloud/normalize
 
 ## Usage
 
-Via CSS:
-
 ```css
 @import '/node_modules/@urcloud/normalize/normalize.css';
 ```
